@@ -11,11 +11,11 @@ const Me: object =  {
  name: "Guilherme",
  acknowledgements: "Frontend Engineer", 
  primarySkillset = "Software Engineer, Frontend, Backend and Bodybuilder",
- languages = ["JavaScript", "C#", "React", "NodeJS", "Go", "Angular"]
+ languages = ["JavaScript", "AWS", "C#", "React", "NodeJS", "Go", "Angular"]
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -31,7 +31,7 @@ const Me: object =  {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigarciaa&theme=dracula&hide_langs_below=1" />
@@ -42,13 +42,12 @@ const Me: object =  {
 </a>
 
 [website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[instagram]: https://www.instagram.com/guigarcia.a/
+[linkedin]: https://www.linkedin.com/in/guilherme-garcia-01/
 <br>
 
-#### Rede Sociais!
+#### Social Media!
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
