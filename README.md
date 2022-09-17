@@ -26,16 +26,6 @@ const Me: object =  {
 </code>
 
 
-## **GitHub Statistics**
-
-<a href="https://github.com/guigarciaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigarciaa&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/guigarciaa">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=guigarciaa&show_icons=true&theme=dracula&line_height=27" alt="Guilherme Garcia github stats"/>
-</a>
-
 [instagram]: https://www.instagram.com/guigarcia.a/
 [linkedin]: https://www.linkedin.com/in/guilherme-garcia-01/
 <br>
