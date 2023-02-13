@@ -11,7 +11,7 @@ const Me: object =  {
  name: "Guilherme",
  acknowledgements: "Frontend Engineer", 
  primarySkillset = "Software Engineer, Frontend, Backend and Bodybuilder",
- languages = ["JavaScript", "Dart"],
+ languages = ["JavaScript", "C#"],
  skills = ["Angular", "React", "NodeJS", "AWS", "Cloud Architecture"]
 }
 ```
