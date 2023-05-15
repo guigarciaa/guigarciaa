@@ -29,10 +29,10 @@ const Me: object =  {
 </code>
 
 
-[instagram]: https://www.instagram.com/guigarcia.a/
+[Email]: iamguigarcia@gmail.com
 [linkedin]: https://www.linkedin.com/in/guilherme-garcia-01/
 <br>
 
 #### Social Media!
-📬 [Email][iamguigarcia@gmail.com]
+📬 [Email][Email]
 👔 [linkedin][linkedin]
