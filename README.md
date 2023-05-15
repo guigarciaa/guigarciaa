@@ -1,6 +1,6 @@
 ### Hi devs 👋
 
-Software Engineer, beer and motorcycle appreciator in his spare time, trust that beer resolution any problem.
+Tech lover, muscle builder, knowledge seeker! Ready for exciting challenges! 💪📚💻
 
 ## More for me
 
