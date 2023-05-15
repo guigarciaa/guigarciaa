@@ -11,8 +11,6 @@
 
 
 ### More for me 👨🏻‍💻
-<code><img align="right" width="400" src="./assets/img.svg"><code>
-
 ```c#
 using System;
 
