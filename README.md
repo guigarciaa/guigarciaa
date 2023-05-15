@@ -1,6 +1,4 @@
-<img src="./assets/banner-github.svg">
 
-<br>
 
 # Hi devs 👋
 
@@ -12,9 +10,8 @@
 
 
 
-<br>
-
 ### More for me 👨🏻‍💻
+<code><img align="right" width="400" src="./assets/img.svg"><code>
 
 ```c#
 using System;
